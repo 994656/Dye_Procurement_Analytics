@@ -1,3 +1,6 @@
-supplier_id,supplier_name,country
-S001,Jiangsu Dye Co,China
-S002,Zhejiang Chemical Co,China
+supplier_id,supplier_name,province,material_category,supplier_level,payment_terms
+S001,江苏华彩染料有限公司,江苏,活性染料,A,30天
+S002,浙江蓝海化工有限公司,浙江,分散染料,A,60天
+S003,广东新材料有限公司,广东,酸性染料,B,30天
+S004,山东鲁染化工有限公司,山东,直接染料,B,45天
+S005,河北中色科技有限公司,河北,活性染料,C,60天
