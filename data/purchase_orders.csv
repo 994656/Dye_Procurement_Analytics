@@ -1,1 +1,6 @@
-
+order_id,supplier_id,material_name,quantity_kg,order_date,expected_delivery,actual_delivery,order_status,quality_status
+PO001,S001,Reactive Blue,1000,2026-01-05,2026-01-15,2026-01-16,Completed,Qualified
+PO002,S002,Disperse Red,2000,2026-01-08,2026-01-20,2026-01-20,Completed,Qualified
+PO003,S003,Acid Yellow,1500,2026-01-10,2026-01-25,2026-02-02,Delayed,Qualified
+PO004,S001,Reactive Black,3000,2026-02-01,2026-02-15,2026-02-14,Completed,Qualified
+PO005,S005,Reactive Orange,1200,2026-02-05,2026-02-20,2026-02-28,Delayed,Unqualified
