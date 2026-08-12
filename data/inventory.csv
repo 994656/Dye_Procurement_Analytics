@@ -1,1 +1,6 @@
-
+material_name,current_stock,safety_stock,warehouse,last_update
+Reactive Blue,5000,3000,华东仓库,2026-03-01
+Disperse Red,1200,2000,华东仓库,2026-03-01
+Acid Yellow,800,1500,华南仓库,2026-03-01
+Reactive Black,6000,4000,华北仓库,2026-03-01
+Reactive Orange,900,1000,华东仓库,2026-03-01
